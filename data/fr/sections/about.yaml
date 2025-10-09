@@ -1,6 +1,6 @@
 # section information
 section:
-  name: About
+  name: Présentation personnelle
   id: about
   enable: true
   weight: 1
@@ -19,7 +19,7 @@ designation: Élève ingénieur
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "Je suis un élève ingénieur actuellement en info SPE à l'EPITA Toulouse."
+summary: "Je m'appelle Aurélien Soula, j'ai 19 ans et je suis actuellement en info SPE à l'EPITA Toulouse."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

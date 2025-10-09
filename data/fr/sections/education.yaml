@@ -1,0 +1,59 @@
+# section information
+section:
+  name: Parcours scolaire
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Diplôme d'ingénieur informatique
+  icon: fa-school
+  timeframe: 2024-Présent
+  institution:
+    name: EPITA
+    url: "#"
+    logo: /images/sections/education/university.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/education/university.jpg
+  takenCourses: #(optional)
+    showGrades: false
+    collapseAfter: 3
+    courses:
+    - name: Informatique pratique
+    - name: Algorithmique
+    - name: Mathématiques
+    - name: Architecture des ordinateurs
+    - name: Anglais
+    - name: Méthodologie
+    - name: Communication 
+    - name: Éthique
+    - name: Physique
+    - name: Théorie des langages rationnels
+    - name: et d'autres cours ponctuels...
+- name: High School Diploma
+  icon: fa-user-graduate
+  timeframe: 2021-2024
+  institution:
+    name: Clonlara School
+  customSections:
+  - name: Description
+    content: J'ai obtenu l'équivalent Américain du bac à Clonlara School.
+  takenCourses:
+    showGrades: false
+    collapseAfter: 3
+    courses:
+    - name: NSI
+    - name: Mathématiques
+    - name: Anglais
+    - name: Histoire-Géographie
+    - name: Français
+    - name: Japonais
+    - name: Art du discours
+    - name: et plus encore...
+  extracurricularActivities:
+  - Informatique
+  - Pokémon compétitif
