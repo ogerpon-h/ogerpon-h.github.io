@@ -1,6 +1,6 @@
 baseURL: https://ogerpon-h.github.io/hugo-toha
 languageCode: fr
-title: "Portfolio d'Aurélien"
+title: "Portfolio d'Aurélien Soula"
 
 # Use Hugo modules to add theme
 module:
@@ -22,7 +22,7 @@ languages:
   fr:
     languageCode: fr
     languageName: Français
-    title: "Portfolio d'Aurélien"
+    title: "Portfolio d'Aurélien Soula"
     weight: 1
   # bn:
   #   languageCode: bn
