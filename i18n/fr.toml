@@ -66,7 +66,7 @@ other = "sur"
 other = "Publications"
 
 [taken_courses]
-other = "Cours suivis"
+other = "Cours suivis "
 
 [course_name]
 other = "Intitulé du cours"
@@ -78,7 +78,7 @@ other = "Crédit total"
 other = "Crédit obtenu"
 
 [extracurricular_activities]
-other = "Activités extra-scolaires"
+other = "Activités extra-scolaires "
 
 [show_more]
 other = "Voir plus"

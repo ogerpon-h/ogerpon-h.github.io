@@ -12,6 +12,11 @@ description = "Run hugo server"
 depends = "install"
 run = "hugo server -w"
 
+[tasks.build]
+description = "Build static site"
+depends = "install"
+run = "hugo --minify"
+
 [tasks.update]
 description = "Update the theme to latest release"
 run = "hugo mod get -u"
