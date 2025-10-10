@@ -33,6 +33,9 @@ skills:
   logo: /images/sections/skills/C_Logo.png
   summary: "Je suis en plein apprentissage du C dans le cadre des cours de SPE et du projet OCR."
 
+- name: Python
+  logo: /images/sections/skills/Python-logo-notext.png
+  summary: "Je pratique le Python depuis le niveau lycée, et je m'en sers encore régulièrement à la fois dans le cadre scolaire et personnel."
 
 
 # - name: Kubernetes
