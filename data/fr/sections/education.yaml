@@ -18,7 +18,7 @@ degrees:
     url: "#"
     logo: /images/sections/education/university.jpg
     # Can optionally show a different logo for dark theme
-    darkLogo: /images/sections/education/university.jpg
+    darkLogo: /images/sections/education/logo epita.png
   takenCourses: #(optional)
     showGrades: false
     collapseAfter: 3
