@@ -15,7 +15,7 @@ run = "hugo server -w"
 [tasks.build]
 description = "Build static site"
 depends = "install"
-run = "hugo --minify"
+run = "hugo --minify --config hugo.yaml"
 
 [tasks.update]
 description = "Update the theme to latest release"
