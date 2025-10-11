@@ -18,7 +18,7 @@ projects:
   timeline: "Janvier 2024 - Mars 2024"
   repo: https://github.com/DhSufi/PokemonTeamListCreator
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Contribution à un projet visant à générer des feuilles d'équipe pour les tournois locaux de Pokémon compétitif. Ma contribution à consister à ajouter une option pour avoir plusieurs langues sur la même feuille d'équipe.
+  summary: Contribution à un projet visant à générer des feuilles d'équipe pour les tournois locaux de Pokémon compétitif. Ma contribution a consisté à ajouter une option pour avoir plusieurs langues sur la même feuille d'équipe.
   tags: ["Personnel", "JavaScript"]
 
 - name: Project F.S
@@ -29,11 +29,11 @@ projects:
   repo: https://github.com/gauthier-past2/Project-F.S
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Projet de première année à l'EPITA où j'ai créé un jeu vidéo de type FPS, *Project F.S*, en C# sur Unity en groupe avec 3 autres étudiants.
-  tags: ["EPITA", "C#", "Unity", "git"]
+  tags: ["EPITA", "C#", "Unity", "Git", "Travail en équipe", "Organisation dans le temps"]
 
 - name: OCR
   image: /images/sections/projects/word_search.png
   role: Développeur
   timeline: "Septembre 2025 - Présent"
   summary: Réalisation d'un programme écrit en C capable de résoudre une grille de mots mêlés lue grâce à un réseau de neurones dans le cadre du projet de troisième semestre à l'EPITA.
-  tags: ["EPITA", "C", "git"]
+  tags: ["EPITA", "C", "Git", "Travail en équipe", "Organisation dans le temps"]

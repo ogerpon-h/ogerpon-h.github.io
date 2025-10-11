@@ -74,7 +74,7 @@
                             {{ if .takenCourses }}
                             {{ $collapseAfter  := .takenCourses.collapseAfter | default 2 }}
                             <div class="taken-courses">
-                                <h6 class="text-heading">{{ i18n "taken_courses"}} </h6>
+                                <h6 class="text-heading">{{ i18n "taken_courses"}} :</h6>
                                 {{ if .takenCourses.showGrades }}
                                 {{ $hideScale  := .takenCourses.hideScale }}
                                 <table>
@@ -110,7 +110,7 @@
                             {{ end }}
                             {{ if .extracurricularActivities }}
                             <div class="extracurricular-activities">
-                                <h6 class="text-heading">{{ i18n "extracurricular_activities"}}</h6>
+                                <h6 class="text-heading">{{ i18n "extracurricular_activities"}}:</h6>
                                 <ul>
                                 {{ range .extracurricularActivities }}
                                     <li>{{ . | markdownify }}</li>
@@ -121,7 +121,7 @@
                             {{ if .customSections }}
                             <div class="custom-section">
                                 {{ range .customSections }}
-                                    <h6 class="text-heading">{{ .name }} </h6>
+                                    <h6 class="text-heading">{{ .name }} : </h6>
                                     <div class="custom-content">{{ .content | markdownify }}</div>
                                 {{ end }}
                             </div>

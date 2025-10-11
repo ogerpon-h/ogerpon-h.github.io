@@ -15,15 +15,15 @@ projects:
   image: /images/sections/school_involvement/epikachu.png
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Je suis président d'Epikachu, une association étudiante de l'EPITA dédiée au développement d'une IA capable de jouer au format officiel du jeu vidéo Pokémon (VGC) à un bon niveau.
-  tags: []
+  tags: ["Autonomie", "Créativité", "Travail en équipe"]
 
-- name: JPO & Salons
+- name: JPO & salons
   image: /images/sections/school_involvement/epita_campus.jpg
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Je participe aux événements dits de développement organisés par l'EPITA, où je contribue à la faire connaître aux étudiants potentiels.
-  tags: []
+  tags: ["Communication"]
 
-- name: Encadrement du co working
+- name: Encadrement du coworking
   image: /images/sections/school_involvement/coworking.png
-  summary: J'ai fait parti des étudiants de deuxième année qui étaient présents pendant les sessions de co working organisées par l'EPITA pour les étudiants de première année pendant leurs premières semaines de cours.
+  summary: J'ai fait partie des étudiants de deuxième année qui étaient présents pendant les sessions de coworking organisées par l'EPITA pour les étudiants de première année pendant leurs premières semaines de cours.
   tags: []

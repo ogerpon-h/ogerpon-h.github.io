@@ -35,11 +35,11 @@ skills:
 
 - name: Python
   logo: /images/sections/skills/Python-logo-notext.png
-  summary: "Je pratique le Python depuis le niveau lycée, et je m'en sers encore régulièrement à la fois dans le cadre scolaire et personnel."
+  summary: "Je pratique le Python depuis le niveau lycée et je m'en sers encore régulièrement à la fois dans le cadre scolaire et personnel."
 
-- name: git
+- name: Git
   logo: /images/sections/skills/git.png
-  summary: "J'utilise git dans quasiment tous mes projets, des petits projets personnels aux projets de semestres en passant par les TPs hebdomadaires."
+  summary: "J'utilise Git dans quasiment tous mes projets, des petits projets personnels aux projets de semestres en passant par les TP hebdomadaires."
 
 - name: Linux
   logo: /images/sections/skills/linux.png
