@@ -37,6 +37,15 @@ skills:
   logo: /images/sections/skills/Python-logo-notext.png
   summary: "Je pratique le Python depuis le niveau lycée, et je m'en sers encore régulièrement à la fois dans le cadre scolaire et personnel."
 
+- name: git
+  logo: /images/sections/skills/git.png
+  summary: "J'utilise git dans quasiment tout mes projets, des petits projets personnels aux projets de semestres en passant par les TPs hebdomadaires."
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Linux est mon système d'exploitation principal et le seul que j'utilise à l'EPITA."
+ 
+
 
 # - name: Kubernetes
 #   logo: /images/sections/skills/kubernetes.png
