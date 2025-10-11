@@ -28,7 +28,7 @@ projects:
   timeline: "Septembre 2024 - Mai 2025"
   repo: https://github.com/gauthier-past2/Project-F.S
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Projet de première année à l'EPITA où j'ai créer un jeu vidéo de type FPS, Project F.S, en C# sur Unity en groupe avec 3 autres étudiants.
+  summary: Projet de première année à l'EPITA où j'ai créé un jeu vidéo de type FPS, *Project F.S*, en C# sur Unity en groupe avec 3 autres étudiants.
   tags: ["EPITA", "C#", "Unity", "git"]
 
 - name: OCR

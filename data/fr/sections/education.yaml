@@ -4,15 +4,15 @@ section:
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
-  weight: 4
+  weight: 9
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
 degrees:
-- name: Diplôme d'ingénieur informatique
+- name: Formation d'ingénieur informatique
   icon: fa-school
-  timeframe: 2024 - Présent
+  timeframe: Septembre 2024 - 2029 (prévu)
   institution:
     name: EPITA
     url: "https://www.epita.fr/"
@@ -42,9 +42,6 @@ degrees:
     logo: /images/sections/education/clonlara.png
     darkLogo: /images/sections/education/clonlara.png
 
-  customSections:
-  - name: Description
-    content: J'ai obtenu l'équivalent Américain du bac à Clonlara School.
   takenCourses:
     showGrades: false
     collapseAfter: 3
@@ -52,6 +49,7 @@ degrees:
     - name: NSI
     - name: Mathématiques
     - name: Anglais
+    - name: Physique-Chimie
     - name: Histoire-Géographie
     - name: Français
     - name: Japonais

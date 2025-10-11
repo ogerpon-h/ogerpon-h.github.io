@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Présentation personnelle
+  name: Introduction
   id: about
   enable: true
   weight: 1
@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "Je m'appelle Aurélien Soula, j'ai 19 ans et je suis actuellement en deuxième année de prépa intégrée (info SPE) à l'EPITA Toulouse."
+summary: "J'ai actuellement 19 ans et je suis en deuxième année de prépa intégrée (info SPE) à l'EPITA de Toulouse. J'appartiens donc à la promotion 2029."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

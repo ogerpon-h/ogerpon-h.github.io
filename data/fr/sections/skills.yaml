@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Compétences 
+  name: Compétences informatiques
   id: skills
   enable: true
   weight: 2
@@ -39,7 +39,7 @@ skills:
 
 - name: git
   logo: /images/sections/skills/git.png
-  summary: "J'utilise git dans quasiment tout mes projets, des petits projets personnels aux projets de semestres en passant par les TPs hebdomadaires."
+  summary: "J'utilise git dans quasiment tous mes projets, des petits projets personnels aux projets de semestres en passant par les TPs hebdomadaires."
 
 - name: Linux
   logo: /images/sections/skills/linux.png

@@ -111,7 +111,7 @@ other = "Détails"
 other = "La page que vous recherchez n'est pas disponible."
 
 [more]
-other = "Suite"
+other = "Plus"
 
 [view_certificate]
 other = "Afficher le certificat"

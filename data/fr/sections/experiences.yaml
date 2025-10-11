@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Expériences professionelles
+  name: Stage
   id: experiences
   enable: true
   weight: 7
@@ -24,7 +24,7 @@ experiences:
     start: Juin 2025
     end: Juillet 2025
     responsibilities:
-    - Entretient matériel du parc informatique du lycée.
-    - Déploiement de mises à jour logicielles sur les machines du lycée.
-    - Refonte de l'ENT.
+    - entretien matériel du parc informatique du lycée,
+    - déploiement de mises à jour logicielles sur les machines du lycée,
+    - refonte de l'ENT.
 
