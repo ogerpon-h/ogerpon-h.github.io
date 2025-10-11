@@ -1,0 +1,29 @@
+# section information
+section:
+  name: Vie de l'école
+  id: school_involvement
+  enable: true
+  weight: 8
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+#projects:
+projects:
+- name: Epikachu
+  image: /images/sections/school_involvement/epikachu.png
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Je suis président d'Epikachu, une association étudiante de l'EPITA dédiée au développement d'une IA capable de jouer au format officiel du jeu vidéo Pokémon (VGC) à un bon niveau.
+  tags: []
+
+- name: JPO & Salons
+  image: /images/sections/school_involvement/epita_campus.jpg
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Je participe aux événements dits de développement organisés par l'EPITA, où je contribue à la faire connaître aux étudiants potentiels.
+  tags: []
+
+- name: Encadrement du co working
+  image: /images/sections/school_involvement/coworking.png
+  summary: J'ai fait parti des étudiants de deuxième année qui étaient présents pendant les sessions de co working organisées par l'EPITA pour les étudiants de première année pendant leurs premières semaines de cours.
+  tags: []
