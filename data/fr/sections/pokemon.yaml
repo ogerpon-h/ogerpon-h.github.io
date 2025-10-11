@@ -1,0 +1,29 @@
+# section information
+section:
+  name: Compétitions Pokémon
+  id: pokemon
+  enable: true
+  weight: 11
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+#projects:
+projects:
+- name: Matchs diffusés
+  image: /images/sections/pokemon/stream.png
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Lors de mes participations à des tournois Pokémon officiels, mes matchs ont été diffusés de nombreuses fois.
+  tags: ["Gestion de la pression"]
+
+- name: Interviews
+  image: /images/sections/pokemon/interview.png
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: J'ai été interviewé à de nombreuses reprises lors de tournois Pokémon.
+  tags: ["Communication"]
+
+- name: Résultats majeurs
+  image: /images/sections/pokemon/naic_finals2.png
+  summary: À ce jour, mes meilleurs performances en tournois Pokémon sont ma place de vice-champion à l'international d'Amérique du nord 2024 et mes trois places de vice-champion en tournois européens.
+  tags: ["Organisation dans le temps"]
