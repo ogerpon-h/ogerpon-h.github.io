@@ -13,6 +13,7 @@ section:
 projects:
 - name: Pokémon Team List Creator
   logo: /images/sections/projects/PokémonTeamListCreatorNoText.png
+  image: /images/sections/projects/teamlist generator.png
   role: Contributeur
   timeline: "Janvier 2024 - Mars 2024"
   repo: https://github.com/DhSufi/PokemonTeamListCreator
@@ -22,6 +23,7 @@ projects:
 
 - name: Project F.S
   logo: /images/sections/projects/Project F.S.png
+  image: /images/sections/projects/Project F.S gameplay.png
   role: Développeur
   timeline: "Septembre 2024 - Mai 2025"
   repo: https://github.com/gauthier-past2/Project-F.S
@@ -30,6 +32,7 @@ projects:
   tags: ["EPITA", "C#", "Unity", "git"]
 
 - name: OCR
+  image: /images/sections/projects/word_search.png
   role: Développeur
   timeline: "Septembre 2025 - Présent"
   summary: Réalisation d'un programme écrit en C capable de résoudre une grille de mots mêlés lue grâce à un réseau de neurones dans le cadre du projet de troisième semestre à l'EPITA.
