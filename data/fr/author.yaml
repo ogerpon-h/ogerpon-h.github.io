@@ -3,12 +3,12 @@ name: "Aurélien Soula"
 nickname: "Aurélien"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Bonjour ! Je suis"
-image: "images/author/aurelien-soula.jpg"
+image: "images/author/aurelien-soula3.jpg"
 # give your some contact information. they will be used in the footer
-# contactInfo:
-#   email: "johndoe@example.com"
+contactInfo:
+   email: "aurelien.soula@epita.fr"
 #   phone: "+0123456789"
-#   github: johndoe
+   github: ogerpon-h
 #   linkedin: johndoe
 #   researchgate: john-doe
 
