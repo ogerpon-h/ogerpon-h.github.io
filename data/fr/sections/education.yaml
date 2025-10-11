@@ -16,7 +16,7 @@ degrees:
   institution:
     name: EPITA
     url: "#"
-    logo: /images/sections/education/university.jpg
+    logo: /images/sections/education/logo epita.png
     # Can optionally show a different logo for dark theme
     darkLogo: /images/sections/education/logo epita.png
   takenCourses: #(optional)
