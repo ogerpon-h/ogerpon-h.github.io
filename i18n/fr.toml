@@ -15,7 +15,7 @@ other = "Mots clés"
 other = "Catégories"
 
 [at]
-other = "chez"
+other = "à"
 
 [resume]
 other = "Mon Curriculum Vitæ"
@@ -24,7 +24,7 @@ other = "Mon Curriculum Vitæ"
 other = "Navigation"
 
 [contact_me]
-other = "Contactez moi :"
+other = "Me contacter"
 
 [email]
 other = "Email"

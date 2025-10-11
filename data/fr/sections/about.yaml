@@ -10,27 +10,27 @@ section:
 # your designation
 designation: Élève ingénieur
 # your company information
-# company:
-#   name: Example Co.
-#   url: "https://www.example.com"
+company:
+   name: l'EPITA
+   url: "https://www.epita.fr"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "Je m'appelle Aurélien Soula, j'ai 19 ans et je suis actuellement en info SPE à l'EPITA Toulouse."
+summary: "Je m'appelle Aurélien Soula, j'ai 19 ans et je suis actuellement en deuxième année de prépa intégrée (info SPE) à l'EPITA Toulouse."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
-# socialLinks:
-# - name: Email
-#   icon: "fas fa-envelope"
-#   url: "example@gmail.com"
+socialLinks:
+ - name: Email
+   icon: "fas fa-envelope"
+   url: "aurelien.soula@epita.fr"
 
-# - name: Github
-#   icon: "fab fa-github"
-#   url: "https://www.github.com/example"
+ - name: Github
+   icon: "fab fa-github"
+   url: "https://www.github.com/ogerpon-h"
 
 # - name: Stackoverflow
 #   icon: "fab fa-stack-overflow"
