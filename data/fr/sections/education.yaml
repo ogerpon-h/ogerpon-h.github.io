@@ -12,12 +12,11 @@ section:
 degrees:
 - name: Diplôme d'ingénieur informatique
   icon: fa-school
-  timeframe: 2024-Présent
+  timeframe: 2024 - Présent
   institution:
     name: EPITA
-    url: "#"
+    url: "https://www.epita.fr/"
     logo: /images/sections/education/logo epita.png
-    # Can optionally show a different logo for dark theme
     darkLogo: /images/sections/education/logo epita.png
   takenCourses: #(optional)
     showGrades: false
@@ -36,9 +35,13 @@ degrees:
     - name: et d'autres cours ponctuels...
 - name: High School Diploma
   icon: fa-user-graduate
-  timeframe: 2021-2024
+  timeframe: 2021 - 2024
   institution:
     name: Clonlara School
+    url: "https://clonlara.org/"
+    logo: /images/sections/education/clonlara.png
+    darkLogo: /images/sections/education/clonlara.png
+
   customSections:
   - name: Description
     content: J'ai obtenu l'équivalent Américain du bac à Clonlara School.
