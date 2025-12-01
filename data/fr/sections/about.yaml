@@ -36,9 +36,9 @@ socialLinks:
 #   icon: "fab fa-stack-overflow"
 #   url: "#"
 
-# - name: LinkedIn
-#   icon: "fab fa-linkedin"
-#   url: "#"
+ - name: LinkedIn
+   icon: "fab fa-linkedin"
+   url: "https://www.linkedin.com/in/aur%C3%A9lien-soula-10a076356/"
 
 # - name: Twitter
 #   icon: "fab fa-twitter"
