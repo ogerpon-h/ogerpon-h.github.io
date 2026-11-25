@@ -16,6 +16,10 @@ jobs:
     # checkout to the commit that has been pushed
     - uses: actions/checkout@v5
 
+    - name: Create a local tools directory
+      run: |
+        mkdir -p "${HOME}/.local"
+
     - name: Install Dart Sass
       run: |
         echo "Installing Dart Sass ${DART_SASS_VERSION}..."
