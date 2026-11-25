@@ -2,6 +2,7 @@
 hugo-extended = '0.170.0'
 node = '24.6.0'
 go = '1.25.0'
+"github:sass/dart-sass" = "latest"
 
 [tasks.install]
 description = "Install dependencies"
